@@ -9,7 +9,7 @@ services:
 
     environment:
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: RYMr@83592027!
+      POSTGRES_PASSWORD: yourpassword
       POSTGRES_DB: nodejs-capstone
 
     volumes:
